@@ -127,9 +127,11 @@ The VQE solver demonstrates high accuracy in solving the Poisson equation for sm
 * **Accuracy:** Achieves Fidelity > 0.99 in noiseless environments with appropriate circuit depth.
 * **Scalability:** As the system size () increases, increasing the QAOA layer depth () effectively recovers Fidelity, demonstrating the expressibility of the ansatz.
 
-<img width="901" height="570" alt="layer_benchmark" src="https://github.com/user-attachments/assets/dfee7f03-1633-4e9e-b045-4f379a679c20" />
+| **Qubit Scalability** | **Layer Depth Analysis** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/06d40068-00f3-4641-8907-06ce7412a491" width="100%"> | <img src="https://github.com/user-attachments/assets/819c360b-1a94-4bcf-89cc-eb3b8a55319f" width="100%"> |
+| Fidelity changes with increasing number of qubits | Improve performance with layer (p) depth |
 
----
 
 ## 📜 License
 
@@ -141,10 +143,8 @@ This project is licensed under the [MIT License](https://www.google.com/search?q
 
 **Jongseok**
 
-* Undergraduate Researcher in Quantum Algorithm Lab
+* Undergraduate Researcher in Institute of Quantum Information Processing and Systems (University of Seoul)
 * Dual Major in Physics & Artificial Intelligence
+* Email: sjs981212@naver.com
 * **GitHub:** [YourProfile](https://www.google.com/search?q=https://github.com/Jongsek103)
 
-```
-
-```
