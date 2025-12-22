@@ -1,0 +1,44 @@
+# === [Critical] Secrets & Credentials ===
+# API 키 파일 (절대 주석 해제 금지)
+apikey.json
+.env
+
+# === Python Standard ===
+# 컴파일된 바이트코드 (불필요함)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === Jupyter Notebooks ===
+# 노트북 체크포인트 (자동 저장본)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# === Virtual Environments ===
+# 가상환경 폴더
+venv/
+env/
+.env/
+.venv/
+.anaconda/
+
+# === OS Generated Files ===
+# 맥(Mac) 시스템 파일
+.DS_Store
+.DS_Store?
+._*
+
+# 윈도우 시스템 파일
+Thumbs.db
+ehthumbs.db
+
+# === IDE Settings ===
+# VS Code, PyCharm 등 에디터 설정 파일
+.vscode/
+.idea/
+
+# === Generated Files (Optional) ===
+# 실행 결과로 나온 그래프 이미지 등을 올리고 싶지 않다면 아래 주석을 해제하세요
+# *.png
+# *.jpg
+# *.pdf
