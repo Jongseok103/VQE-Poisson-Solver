@@ -128,17 +128,11 @@ python experiments/run_simulation.py
 
 ---
 
-## 📜 라이선스 (License)
-
-이 프로젝트는 [MIT License](https://www.google.com/search?q=LICENSE)를 따릅니다. 자유롭게 사용, 수정 및 배포가 가능합니다.
-
----
-
 ## 👤 Author
 
 **Jongseok**
 
-* Undergraduate Researcher in Quantum Algorithm Lab
+* Undergraduate Research Student at Institute for Quantum Information Processing and Systems
 * Dual Major in Physics & Artificial Intelligence
 * **GitHub:** [YourProfile](https://www.google.com/search?q=https://github.com/Jongseok103)
 
